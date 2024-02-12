@@ -1,4 +1,3 @@
-"use strict";
 
 const wrapper = document.querySelector(".wrapper");
 for (let i = 0; i < 100; i++) {
